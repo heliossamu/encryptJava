@@ -3,5 +3,6 @@
 
 public enum EncryptMode{
 	ECB,
-	CBC
+	CBC,
+	TXT
 }
